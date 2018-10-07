@@ -1,0 +1,3481 @@
+fileFormatVersion: 2
+guid: 59b7b4e0e00671a42bce3f1b2e6b597c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_0
+    21300002: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_1
+    21300004: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_2
+    21300006: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_3
+    21300008: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_4
+    21300010: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_5
+    21300012: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_6
+    21300014: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_7
+    21300016: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_8
+    21300018: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_9
+    21300020: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_10
+    21300022: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_11
+    21300024: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_12
+    21300026: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_13
+    21300028: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_14
+    21300030: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_15
+    21300032: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_16
+    21300034: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_17
+    21300036: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_18
+    21300038: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_19
+    21300040: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_20
+    21300042: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_21
+    21300044: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_22
+    21300046: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_23
+    21300048: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_24
+    21300050: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_25
+    21300052: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_26
+    21300054: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_27
+    21300056: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_28
+    21300058: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_29
+    21300060: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_30
+    21300062: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_31
+    21300064: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_32
+    21300066: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_33
+    21300068: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_34
+    21300070: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_35
+    21300072: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_36
+    21300074: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_37
+    21300076: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_38
+    21300078: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_39
+    21300080: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_40
+    21300082: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_41
+    21300084: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_42
+    21300086: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_43
+    21300088: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_44
+    21300090: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_45
+    21300092: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_46
+    21300094: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_47
+    21300096: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_48
+    21300098: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_49
+    21300100: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_50
+    21300102: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_51
+    21300104: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_52
+    21300106: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_53
+    21300108: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_54
+    21300110: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_55
+    21300112: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_56
+    21300114: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_57
+    21300116: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_58
+    21300118: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_59
+    21300120: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_60
+    21300122: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_61
+    21300124: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_62
+    21300126: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_63
+    21300128: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_64
+    21300130: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_65
+    21300132: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_66
+    21300134: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_67
+    21300136: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_68
+    21300138: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_69
+    21300140: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_70
+    21300142: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_71
+    21300144: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_72
+    21300146: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_73
+    21300148: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_74
+    21300150: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_75
+    21300152: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_76
+    21300154: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_77
+    21300156: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_78
+    21300158: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_79
+    21300160: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_80
+    21300162: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_81
+    21300164: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_82
+    21300166: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_83
+    21300168: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_84
+    21300170: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_85
+    21300172: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_86
+    21300174: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_87
+    21300176: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_88
+    21300178: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_89
+    21300180: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_90
+    21300182: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_91
+    21300184: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_92
+    21300186: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_93
+    21300188: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_94
+    21300190: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_95
+    21300192: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_96
+    21300194: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_97
+    21300196: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_98
+    21300198: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_99
+    21300200: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_100
+    21300202: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_101
+    21300204: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_102
+    21300206: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_103
+    21300208: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_104
+    21300210: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_105
+    21300212: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_106
+    21300214: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_107
+    21300216: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_108
+    21300218: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_109
+    21300220: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_110
+    21300222: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_111
+    21300224: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_112
+    21300226: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_113
+    21300228: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_114
+    21300230: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_115
+    21300232: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_116
+    21300234: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_117
+    21300236: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_118
+    21300238: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_119
+    21300240: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_120
+    21300242: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_121
+    21300244: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_122
+    21300246: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_123
+    21300248: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_124
+    21300250: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_125
+    21300252: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_126
+    21300254: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_127
+    21300256: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_128
+    21300258: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_129
+    21300260: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_130
+    21300262: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_131
+    21300264: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_132
+    21300266: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_133
+    21300268: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_134
+    21300270: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_135
+    21300272: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_136
+    21300274: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_137
+    21300276: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_138
+    21300278: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_139
+    21300280: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_140
+    21300282: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_141
+    21300284: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_142
+    21300286: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_143
+    21300288: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_144
+    21300290: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_145
+    21300292: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_146
+    21300294: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_147
+    21300296: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_148
+    21300298: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_149
+    21300300: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_150
+    21300302: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_151
+    21300304: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_152
+    21300306: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_153
+    21300308: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_154
+    21300310: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_155
+    21300312: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_156
+    21300314: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_157
+    21300316: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_158
+    21300318: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_159
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1288
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ed4dbbf030aa4bbb2ab925d208435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1288
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a37afc9c734a499843f69447f49f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1288
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5ddcf6119fc74ebfa9eb9c01446ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1288
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b1d303b0f9dcb4a81319779ff6ba59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1288
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc7cc189f4e224abe538dca0cd6349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1288
+        width: 86
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ece36bc0cd99844aaf23c9d25f5c56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1288
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155506326a54e44db378a96c130dbf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1288
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba14455884ca76d47b7506596df53320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1288
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071051a6bd1b3ff4483060b336256bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1149
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85612b37adb577d40af90bf4cf219026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1151
+        width: 143
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169871a9b717fab4d98be4fa143f8eb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1151
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b3e2e7fe9c0bb438db4dfd063b9696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1143
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b6ae8cb865d04eaa66e028a528a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1143
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078060671aec214bba66a137df00bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1146
+        width: 141
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89db33c8cfb6a84695bdc9abdbfa4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1147
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67f00562015124d87d5858c18fa145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1148
+        width: 146
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b4d1100a65384f93e425cc15bed40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 986
+        width: 144
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c9f46a815be7f478f1e8ce14254bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 985
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e975e329aa7e5349885b034f6141150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 986
+        width: 91
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f2b10af2f671499653f5e9394b147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 987
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd9c86f2eb23d44f969674531348dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1036
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b9c36c1bf2854593eb22c3d6854b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1069
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc420b4514af240be04b782f7890de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1077
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8e37a69fdae64eb8c7a0566956d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1077
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960083e4c03876d42b4bebceb7054898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1074
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78855525a7617084aa784926bfdc58d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1077
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c833778df80f68745a8a4afaf8886f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1077
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d3eb8ddd89a841b6b22144c043693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1077
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4470f7fdd44a2742a7950222879c115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1077
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8767c6eee0ef4aa8854ae7094f705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1077
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdcd4f31416644f844870a4182e4fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b63fc6b0f38f4a957426e3202b8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1074
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae1fbd252fdb54d8c12a29dc04b7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f9207ea43fc740b805227e006cb51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1077
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0694bf06229324bbe118cd8e158ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1054
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf9cd597459e544acf65ccecb2b3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749edc67ee4351448ace466b18bd864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1054
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2ed64ffd30ea9409d6660e418a10e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c8e379c4a75b343b9e477503469fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eba2a477a85e64eba16c799ce0f47f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1054
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f190f72f491064b9ed207c0795230f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fd8fab911117347aca44eb84b3e281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1054
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c094d5f56afce43acbe5c7dc9f0ef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1054
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd8bae968b673469beb5836cb1b473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1051
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f20fed2fe4f74ca52f9eee7856246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1054
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edcead7b9b7ebf458ac59c075af94e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1054
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d52e04e2dcedb24a939964ff33add13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12be134be92a0841b96ac8d7e14a701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8bcf6ec1b98384b8d988d0631bf0a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1054
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d48dfa6c772f34f85461ae1aef01e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1054
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72200c23c028d504fb1382279ec75565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1054
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525f9b7a2ab1f548930cbc6e594a506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1051
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cf871b12f6c7940b2e49fe7b09937b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1054
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ed582a736101f408ef7ab61204b74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f6898f07f6d6442a81ebdc7069cf34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1038
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e862b4c322fa21946b4ad7cc9f3f8fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1036
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed93b7515177314bb717541576be58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1038
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0142a31a98d61846953bc9432f58ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d231d60364634fb3c1425c23db857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1038
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f052a67bfce8a4fa45bdea7bf297a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1035
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423dd8b7477156048bf7d7e932ea2b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac833e07ba4fed4aa9035baa32e3ad3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1038
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c478870a612764e82c1745d2cc0fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfafdda2b4a313f499fccde42ee41d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1038
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d17ab0aeff26840b59ab40c9624677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1038
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145e2802f6345549a0cbc0cb5bc7c62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ee8ce9d908484f9d26f2c149a6a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669eb4c72d5b9545afa6a3754dc9ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1038
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aaca736f57b484b91a95be1f21a395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 819
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199138fd4a381c4ca4b5955ebdefd68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 824
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87872553ba63c104ba8309a48f5b87b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 824
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f1f239c8b7be41a10aca54ae9a45e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 823
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db0ed1daad891428606dfc4d0819da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 824
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb41e83319635f4fa55ca1150e64fc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 824
+        width: 122
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9a6885c6ee1d444b52802160c2b06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 824
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b31237d7993ac8449324726b9ce1a35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 824
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a840d574e98cf4194e06652d71814b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 664
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbeebdf9d8a38140a2d1baf9b852c97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 664
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a56c60cedec5438e79e5b34389391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 664
+        width: 129
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79148b05c7e4f045b117993f8356feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 662
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa157a8f4a5924bacbcdb69d626c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 662
+        width: 155
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc03fedd8bd154ca8be8f09d0cf9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 664
+        width: 152
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ecc9fac9092e149927281fbd63e6e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 664
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9557724cb8e145343af8b10a82649da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 664
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591809ec26454a4ebceb754dcf0fb9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 492
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753cf53cb4cbd1428c876737a07d341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 492
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e525637dcdcab4e929ed4bf81a2155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 492
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070ceb73858bc24caf1a3a6756a6952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda055ea1ca1ad246b597341b7088e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 482
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a045c57919ff1e4ba9b0fcf3c4b562c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 483
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50a71d38ac25c4cac26ac8525841b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 492
+        width: 113
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739f9f3f0658f644a9d6163f44f667a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 492
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6bd97a4af75647a62f58b06a7e5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 348
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8fc4ff08618040a32c6cd33f5c633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ed1c419d7f00548a2eba630a51c110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 348
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bed9ef38feb964f8af50131e087412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 348
+        width: 135
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cf5a4ed08b5f4b848f40485c8d9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 348
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97b4df5776a1046b0742745f62f82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 348
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eb9e42f443b6844980619e43080ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 351
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39fdbdd0048d24ba02b85d3ebe6f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 188
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b12a9f5f687c48b0c64b97a1ebedb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 190
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a15596b6d6aa7478916fac2bcd5d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 117
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7371841aaf62344b0b34740d21b3cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767791cb3c377b459f0e86c99a16a02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 184
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae3f1e3439921489b926c24b69f3b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 255
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a226079a371664a87210c4dfdeaaa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 255
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a294bce2613749bd8ea7d58daecbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 255
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2822fb12b8564ebb67e2d4e9cb0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 255
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701df18a69ab35d4aa956050f6c23f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 255
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a71aaa7c5b5d4eb51d7012f27fb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 255
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a67ab658685a84a94885f27571f0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 169
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78511d988ecdef9429699568b976a0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 222
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d470cb9d768a54489ddeef7fe14377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae3652496870b4187daf0229ccd20b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf452b578732f49a503e30e864a82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_115
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 222
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc446b17f33c24f814f299f178a6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_116
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 222
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a3e5ce763d6749b65b537e36c38d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_117
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 222
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb58b5ff6d3204db16c65ed35c1e7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_118
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fac5b23a9274143aceff7f149b5100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_119
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891031c68462abf4ab609bb63faac486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_120
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 201
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91b16856117e64b9a2cbeb848edf2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_121
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26be4d05508cb7742b516a5f0e82257c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_122
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b93350821fa847b040d37493ffa15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_123
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 204
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844a29ab6965e784ea933dc17de02cc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_124
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119c34a497e94f4f8195bab3ba4e8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_125
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cbc2b59ea6e5e4cab9bede1c085a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_126
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 188
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a00c7ebe4440ac4088e501bf51baab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_127
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6947f808b55e543b2ca97672d88178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_128
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8120fd3b3b2624898efe5461b9e814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_129
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 188
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e088b16468748a40a45d59195db6ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_130
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27f69f3e5132a4ea2fe54ae5f7111a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_131
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eaaf5c190814f439c9064148258eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_132
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 186
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a24134ba9e96469b1800a18e3513c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_133
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a06261e9f1018b42bf6030bce175a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_134
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0122deb35b55a844b793788945d9b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_135
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 188
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196faa9dceb4a443b7502899201d34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_136
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 188
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f6419de6d9c94a82e9b8968509245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_137
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6123efc179cbddd43a373ed9847313f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_138
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 188
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae6d22248bd0aa42ad6655224545ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_139
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 169
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec52ce877d1154e82c339156f82d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_140
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a6aa8d82334f489ca3e8480671b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_141
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33603aea2758c4dbc7e73045844779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_142
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 172
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce0aa05371ae343b1f0c7d659a274b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_143
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91521b73940374ab342c87c52b2269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_144
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 169
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a67619e5998ed4c9884bf78421b2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_145
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29e9e3bc765ff489414cde81e21960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_146
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bfabf8994c314da1565996194f5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_147
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c49909e1baa4548b45a3974f7f6d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_148
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 172
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befad352853310c4db349116069f4480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_149
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e76bd5323e38438d349a604ef8274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_150
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484f392f4c9a084784100a503502984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_151
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 172
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f240d27cbd173459b2b1ad59e4573f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_152
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 27
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d80874fa47c4d43b1fb26822a982db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 28
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c796089c56aca428b61a38a9fb1b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_154
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 24
+        width: 114
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93563a54d139c43a3d0426b4926083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_155
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 25
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fb1910cdd35e4fa50cc46e9a7fe2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_156
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 31
+        width: 119
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f4c6972950d04ab0ef2bbc6f1612e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_157
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 33
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eeece75b6352429efbff79f472f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_158
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 30
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0eae63290d5b46bcbde629769fbb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Crystal Dragon_159
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 31
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b8d1c9831b7842aca60fe2ead2b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27a2aef05ee88af47a4f005f975bc703
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
