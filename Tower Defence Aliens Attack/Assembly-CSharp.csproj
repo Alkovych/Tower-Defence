@@ -61,10 +61,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Levels\LevelManager.cs" />
     <Compile Include="Assets\Scripts\MainMenu\DontDestroyOnLoad.cs" />
     <Compile Include="Assets\Scripts\MainMenu\LanguageHelper.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenuMonsterScriptHelper.cs" />
+    <Compile Include="Assets\Scripts\MainMenu\SceneLoading.cs" />
     <Compile Include="Assets\Scripts\MainMenu\SoundHelper.cs" />
+    <None Include="Assets\Sprites\Backyard - Free\Readme.txt" />
+    <None Include="Assets\Resources\Level.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/UnityGames/Tower-Defence/Tower Defence Aliens Attack/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
