@@ -3,13 +3,29 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class LevelManager : MonoBehaviour
+public class LevelManager : Singleton<LevelManager>
 
     // Данный клас создает поле битвы для игры 
 
 {
     [SerializeField] // для сокрытия данных , но по прежнему доступно в редакторе
     private GameObject[] tilePrefabs; //замля которая идет по координатам х и y 
+
+    [SerializeField]
+    private CameraMovement cameraMovement;
+
+    [SerializeField]
+    private Transform map; // также для иерархии как и в TileScript продолжение
+
+    public Dictionary<Point , TileScript> Tiles { get; set; }
+
+    private Point greenSpown, redSpown; // порталы
+
+    [SerializeField]
+    private GameObject greenPortal;
+    [SerializeField]
+    private GameObject redPortal;
+
 
     // подсчет на сколько большие кусочки нашего пола для компоновки их вместе без стыков // Свойство
     public float TileSize
@@ -19,6 +35,7 @@ public class LevelManager : MonoBehaviour
 
     void Start()
     {
+        
         CreateLevel();
     }
 
@@ -27,9 +44,23 @@ public class LevelManager : MonoBehaviour
 
     }
 
+    //Test
+    private void TestDictionary()
+    {
+        Dictionary<string, int> testDictionary = new Dictionary<string, int>();
+        testDictionary.Add("Age", 24);
+        testDictionary.Add("Strenght", 300);
+        testDictionary.Add("Special", 100);
+
+    }
+
 
     private void CreateLevel() // Данная функция создает уровень , нарисовка карты с помощью квадратов.
     {
+
+        Tiles = new Dictionary<Point, TileScript>();
+
+
 
         string[] mapData = ReadLevelText();
 
@@ -40,6 +71,8 @@ public class LevelManager : MonoBehaviour
         // подсчет на сколько большие кусочки нашего пола для компоновки их вместе без стыков
         //float tileSize = tile.GetComponent<SpriteRenderer>().sprite.bounds.size.x;
 
+        Vector3 maxTile = Vector3.zero;
+
         Vector3 worldStart = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height)); // для нахождения левого верхнего угла для правильного построения карты 
 
         for (int y = 0; y < mapYSize; y++)
@@ -49,9 +82,15 @@ public class LevelManager : MonoBehaviour
 
             for (int x = 0; x < mapXSize; x++)
             {
-                PlaceTile(newTiles[x].ToString(), x,y, worldStart);
+               PlaceTile(newTiles[x].ToString(), x,y, worldStart);
             }
         }
+
+        maxTile = Tiles[new Point(mapXSize - 1, mapYSize - 1)].transform.position;
+
+        cameraMovement.SetLimits(new Vector3(maxTile.x+TileSize,maxTile.y -TileSize));
+
+        SpawnPortals();
     }
 
     //Размещает кусочки земли
@@ -59,8 +98,14 @@ public class LevelManager : MonoBehaviour
     {
         int tileIndex = int.Parse(tileType);
 
-        GameObject newTile = Instantiate(tilePrefabs[tileIndex]);
-        newTile.transform.position = new Vector3(willStart.x + (TileSize * x), willStart.y - (TileSize * y), 0); // разметка полей , на данном цыкле 25 квадратов вместе.
+        TileScript newTile = Instantiate(tilePrefabs[tileIndex]).GetComponent<TileScript>();
+        //newTile.transform.position = new Vector3(willStart.x + (TileSize * x), willStart.y - (TileSize * y), 0); // разметка полей , на данном цыкле 25 квадратов вместе.
+
+        newTile.Setup(new Point(x, y), new Vector3(willStart.x + (TileSize * x), willStart.y - (TileSize * y), 0), map);
+
+
+
+        //return newTile.transform.position;
     }
 
 
@@ -71,5 +116,17 @@ public class LevelManager : MonoBehaviour
         string data = bindData.text.Replace(Environment.NewLine, string.Empty);
 
         return data.Split('-'); 
+    }
+
+    private void SpawnPortals()
+    {
+        greenSpown = new Point(0, 0); // задаем расположение порталов
+
+        Instantiate(greenPortal, Tiles[greenSpown].GetComponent<TileScript>().WorldPosition, Quaternion.identity);// создаеться портал вверху слева
+
+
+        redSpown = new Point(20, 10);// задаем расположение порталов
+
+        Instantiate(redPortal, Tiles[redSpown].GetComponent<TileScript>().WorldPosition, Quaternion.identity);// создаеться портал вверху слева
     }
 }

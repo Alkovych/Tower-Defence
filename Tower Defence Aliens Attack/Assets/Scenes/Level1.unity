@@ -148,6 +148,11 @@ MonoBehaviour:
   - {fileID: 1387084155354152, guid: db1cea893fe5b7d47b060ca7e27e0fc1, type: 2}
   - {fileID: 1673822571083890, guid: 332e2547a3e2c11439c1753375b32645, type: 2}
   - {fileID: 1229163597199392, guid: c5306568ad068d54aba7eee727ee0aa4, type: 2}
+  cameraMovement: {fileID: 1356716387}
+  map: {fileID: 1179264243}
+  greenPortal: {fileID: 1605136132649240, guid: 2ea6059d4fe09cb4589eb88d7b68c99a,
+    type: 2}
+  redPortal: {fileID: 1090067054165496, guid: 8178a03be68583c42bf4cb46a935ecb8, type: 2}
 --- !u!4 &342829753
 Transform:
   m_ObjectHideFlags: 0
@@ -161,6 +166,76 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &545471196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 545471198}
+  - component: {fileID: 545471197}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &545471197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 545471196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4150edc85571148902b7e774bebe40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  towerPrefab: {fileID: 1055599713807024, guid: 6b997a71f783dd24d99d1dc335b7a3c4,
+    type: 2}
+--- !u!4 &545471198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 545471196}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.013834717, y: 0.5110317, z: 0.5682198}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1179264242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1179264243}
+  m_Layer: 0
+  m_Name: Map
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1179264243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1179264242}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.6784945, y: 2.0973237, z: -0.12075059}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1356716383
 GameObject:
   m_ObjectHideFlags: 0
@@ -171,6 +246,7 @@ GameObject:
   - component: {fileID: 1356716386}
   - component: {fileID: 1356716385}
   - component: {fileID: 1356716384}
+  - component: {fileID: 1356716387}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -238,3 +314,15 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1356716387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1356716383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43724de2db421154cba0ddd944339ed9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraSpeed: 5
