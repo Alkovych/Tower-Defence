@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class TileScript : MonoBehaviour {
 
@@ -18,6 +19,7 @@ public class TileScript : MonoBehaviour {
     void Start () {
 		
 	}
+
 	
 	// Update is called once per frame
 	void Update () {
@@ -37,14 +39,24 @@ public class TileScript : MonoBehaviour {
 
     private void OnMouseOver()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedButton != null) // Для того , чтобы башни не ставились ссази кнопки и без нажатия на кнопку
         {
-            PlaceTower();
+            if (Input.GetMouseButtonDown(0))
+            {
+                PlaceTower();
+            }
         }
     }
 
     public void PlaceTower() // Размещение бащень
     {
-        Instantiate(GameManager.Instance.TowerPrefab, transform.position, Quaternion.identity);
+
+
+        GameObject tower = (GameObject)Instantiate(GameManager.Instance.ClickedButton.TowerGameObject, transform.position, Quaternion.identity);
+
+        tower.GetComponent<SpriteRenderer>().sortingOrder = GridPosition.Y; //чтобы башни не накладывались друг на друга , берем по оси У каждую линию и устанавливаем значение линии 1 или 2 и тд в layer
+        tower.transform.SetParent(transform); // для компоновки объектов на сцене . Башни теперь как дочерние обхекты плиток
+
+        GameManager.Instance.BuyTower();
     }
 }

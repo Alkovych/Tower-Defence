@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Levels\Point.cs" />
     <Compile Include="Assets\Scripts\Levels\Singleton.cs" />
     <Compile Include="Assets\Scripts\Levels\TileScript.cs" />
+    <Compile Include="Assets\Scripts\Levels\TowerButton.cs" />
     <Compile Include="Assets\Scripts\MainMenu\DontDestroyOnLoad.cs" />
     <Compile Include="Assets\Scripts\MainMenu\LanguageHelper.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenuMonsterScriptHelper.cs" />

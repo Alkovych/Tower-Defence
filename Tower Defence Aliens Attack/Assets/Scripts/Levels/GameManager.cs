@@ -5,26 +5,27 @@ using UnityEngine;
 public class GameManager : Singleton<GameManager>
 {
 
-    [SerializeField]
-    private GameObject towerPrefab; // just for testing // tmp will be replace later
+    //[SerializeField]
+    //private GameObject towerPrefab; // just for testing // tmp will be replace later
 
-    public GameObject TowerPrefab
+    //public GameObject TowerPrefab
+    //{
+    //    get
+    //    {
+    //        return towerPrefab;
+    //    }
+
+    //}
+
+    public TowerButton ClickedButton { get; private set; }
+
+    public void PickTower(TowerButton towerButton)
     {
-        get
-        {
-            return towerPrefab;
-        }
-
+        this.ClickedButton = towerButton; // устанавливает башню на которую кликнули
     }
 
-    void Start()
+    public void BuyTower()
     {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        ClickedButton = null;
     }
 }
