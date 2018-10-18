@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\Levels\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Levels\Hover.cs" />
     <Compile Include="Assets\Scripts\Levels\LevelManager.cs" />
     <Compile Include="Assets\Scripts\Levels\Point.cs" />
     <Compile Include="Assets\Scripts\Levels\Singleton.cs" />

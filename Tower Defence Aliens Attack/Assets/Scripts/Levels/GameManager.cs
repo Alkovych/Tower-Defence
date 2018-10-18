@@ -1,6 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
+using UnityEngine.Experimental.PlayerLoop;
+using UnityEngine.UI;
 
 public class GameManager : Singleton<GameManager>
 {
@@ -17,15 +20,65 @@ public class GameManager : Singleton<GameManager>
 
     //}
 
-    public TowerButton ClickedButton { get; private set; }
+    [SerializeField]
+    private Text currecncyText;
+
+    private int currency;
+
+
+    private void Start()
+    {
+        currency = 5;
+    }
+
+    void Update()
+    {
+        HandleEscape();
+    }
+
+    public TowerButton ClickedButton { get; set; }
+
+    public int Currency
+    {
+        get
+        {
+            return currency;
+        }
+
+        set
+        {
+            this.currency = value;
+
+            this.currecncyText.text = value.ToString() + "<color=lime>$</color>";
+        }
+    }
 
     public void PickTower(TowerButton towerButton)
     {
-        this.ClickedButton = towerButton; // устанавливает башню на которую кликнули
+        if (Currency >= towerButton.Price)
+        {
+            this.ClickedButton = towerButton; // устанавливает башню на которую кликнули
+            Hover.Instance.Activate(towerButton.Sprite);
+        }
     }
 
     public void BuyTower()
     {
-        ClickedButton = null;
+        if (Currency <= ClickedButton.Price)
+        {
+            Currency -= ClickedButton.Price;
+
+            Hover.Instance.Deactivate();
+        }
+
+       // ClickedButton = null;
+    }
+
+    private void HandleEscape()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Hover.Instance.Deactivate();
+        }
     }
 }
