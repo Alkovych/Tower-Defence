@@ -14,8 +14,11 @@ public class TileScript : MonoBehaviour {
 
     public bool IsEmpty { get; private set; }
 
+    public bool Debugging { get; set; }
 
-    private SpriteRenderer spriteRenderer;
+
+
+    public SpriteRenderer SpriteRenderer { get; set; }
 
 
     public Vector2 WorldPosition
@@ -29,7 +32,7 @@ public class TileScript : MonoBehaviour {
     // Use this for initialization
     void Start ()
     {
-        this.spriteRenderer = GetComponent<SpriteRenderer>();
+        this.SpriteRenderer = GetComponent<SpriteRenderer>();
     }
 
 	
@@ -57,11 +60,11 @@ public class TileScript : MonoBehaviour {
         if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedButton != null) // Для того , чтобы башни не ставились ссази кнопки и без нажатия на кнопку
         {
 
-            if (IsEmpty)
+            if (IsEmpty && Debugging)
             {
                 ColorTile(emptyColor);
             }
-            if(!IsEmpty)
+            if(!IsEmpty && Debugging)
             {
                 ColorTile(fullColor);
             }
@@ -75,7 +78,11 @@ public class TileScript : MonoBehaviour {
 
     private void OnMouseExit()
     {
-        ColorTile(Color.white);
+        if (!Debugging)
+        {
+            ColorTile(Color.white);
+        }
+
     }
 
     public void PlaceTower() // Размещение бащень
@@ -97,6 +104,6 @@ public class TileScript : MonoBehaviour {
 
     private void ColorTile(Color32 newColor)
     {
-        spriteRenderer.color = newColor;
+        SpriteRenderer.color = newColor;
     }
 }
