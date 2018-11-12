@@ -17,6 +17,8 @@ public class LevelManager : Singleton<LevelManager>
     [SerializeField]
     private Transform map; // также для иерархии как и в TileScript продолжение
 
+    private Point mapSize;
+
     public Dictionary<Point , TileScript> Tiles { get; set; }
 
     private Point greenSpown, redSpown; // порталы
@@ -64,6 +66,7 @@ public class LevelManager : Singleton<LevelManager>
 
         string[] mapData = ReadLevelText();
 
+        mapSize = new Point(mapData[0].ToCharArray().Length, mapData.Length);
 
         int mapXSize = mapData[0].ToCharArray().Length;
         int mapYSize = mapData.Length;
@@ -128,5 +131,10 @@ public class LevelManager : Singleton<LevelManager>
         redSpown = new Point(20, 10);// задаем расположение порталов
 
         Instantiate(redPortal, Tiles[redSpown].GetComponent<TileScript>().WorldPosition, Quaternion.identity);// создаеться портал вверху слева
+    }
+
+    public bool InBounds(Point position )
+    {
+        return position.X >= 0 && position.Y >= 0 && position.X < mapSize.X && position.Y < mapSize.Y; // проверка чтобы не размещались за пределами карты 
     }
 }
